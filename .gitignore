@@ -38,7 +38,8 @@ _site
 # Bundler cache
 .bundle
 vendor
-# Gemfile.lock
+Gemfile.lock
+Gemfile
 
 # RubyGems
 *.gem
