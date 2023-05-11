@@ -105,5 +105,5 @@ Welcome to Ubuntu 16.04.1 LTS (GNU/Linux 4.4.0-134-generic x86_64)
 ```
 
 <div align=left>
-<img src="{{site.url}}/assets/img/Ubuntu/telnet.jfif" alt="img" />
+<img src="{{site.url}}/assets/img/Skill_Category/Ubuntu/telnet.jfif" alt="img" />
 </div>

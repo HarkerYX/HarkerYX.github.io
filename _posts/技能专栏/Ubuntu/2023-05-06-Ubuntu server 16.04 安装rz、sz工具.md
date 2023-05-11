@@ -18,8 +18,8 @@ sudo apt-get install lrzsz
 - **rz : 下载文件**
 
 <div align=left>
-<img src="{{site.url}}/assets/img/Ubuntu/rz.png" alt="img" style="zoom:50%;" />
+<img src="{{site.url}}/assets/img/Skill_Category/Ubuntu/rz.png" alt="img" style="zoom:50%;" />
 </div>
 <div align=left>
-<img src="{{site.url}}/assets/img/Ubuntu/rz1.png" alt="img" style="zoom:50%;" />
+<img src="{{site.url}}/assets/img/Skill_Category/Ubuntu/rz1.png" alt="img" style="zoom:50%;" />
 </div>
