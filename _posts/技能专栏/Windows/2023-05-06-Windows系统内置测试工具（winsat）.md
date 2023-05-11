@@ -28,11 +28,11 @@ tags: [技能,Windows]
 #### **1. 切记以管理员方式打开 cmd 命令窗口**
 
 <div align=left>
-<img src="{{site.url}}/assets/img/Skill_Category/Windows/4.png" alt="img" style="zoom:60%;" />
+<img src="@/../../../../assets/img/Skill_Category/Windows/4.png" alt="img" style="zoom:60%;" />
 </div>
 
 <div align=left>
-<img src="{{site.url}}/assets/img/Skill_Category/Windows/5.png" alt="img" style="zoom:80%;" />
+<img src="@/../../../../assets/img/Skill_Category/Windows/5.png" alt="img" style="zoom:80%;" />
 </div>
 
 #### **2. 测试 winsat formal**
@@ -129,13 +129,13 @@ Machine already has a WinEI rating.  Rerunning all assessments ...
 - 或者是 %WINDIR%\performance\WinSAT\datastore
 
 <div align=left>
-<img src="{{site.url}}/assets/img/Skill_Category/Windows/1.png" alt="img" style="zoom:80%;" />
+<img src="@/../../../../assets/img/Skill_Category/Windows/1.png" alt="img" style="zoom:80%;" />
 </div>
 <div align=left>
-<img src="{{site.url}}/assets/img/Skill_Category/Windows/2.png" alt="img" style="zoom:80%;" />
+<img src="@/../../../../assets/img/Skill_Category/Windows/2.png" alt="img" style="zoom:80%;" />
 </div>
 <div align=left>
-<img src="{{site.url}}/assets/img/Skill_Category/Windows/3.png" alt="img" style="zoom:80%;" />
+<img src="@/../../../../assets/img/Skill_Category/Windows/3.png" alt="img" style="zoom:80%;" />
 </div>
 - 如果需要重新评估 可以执行 `winsat formal -restart`
 
